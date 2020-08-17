@@ -1,0 +1,18 @@
+body {
+    margin: 20px;
+    margin-top: 30px;
+}
+
+.buttons {
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: red;
+    width: 150px;
+}
+
+.progress {
+    margin-top: 10px;
+    height: 30px;
+}
+
